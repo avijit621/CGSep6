@@ -2,3 +2,4 @@ Today is Tuesday
 Month is September 
 Year 2022
 We are learning git
+Today is 27th September
