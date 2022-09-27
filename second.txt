@@ -2,3 +2,5 @@ This is my 2nd file
 I am attending DotNet Session
 Haruki Murakami
 What are you doing?
+I am in branch2
+I am changing stuff in branch2 
